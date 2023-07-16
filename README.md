@@ -28,7 +28,7 @@ Overall, this contract is designed to incentivize users to stake tokens by offer
 
 ## PeriodicRewardStaking
 
-This is a staking contract that allows users to stake tokens and receive rewards in a periodic manner.
+This contract is similar to the complex staking rewards but here the rewards accrued on staking varies every second.
 
 The contract defines the staking and reward tokens as `stakingToken` and `rewardToken`, respectively.
 
